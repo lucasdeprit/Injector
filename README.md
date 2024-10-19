@@ -2,7 +2,7 @@
 
 ![Swift](https://img.shields.io/badge/Swift-5.7%2B-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20|%20macOS%20|%20tvOS%20|%20watchOS-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+![License](LICENSE)
 
 **Injector** is a lightweight and easy-to-use dependency injection framework for Swift. Designed to simplify dependency management by supporting both singleton and transient scopes, it enables better modularization of your Swift projects.
 
