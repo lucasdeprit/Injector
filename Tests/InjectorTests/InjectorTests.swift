@@ -1,33 +1,6 @@
 import XCTest
 @testable import Injector
 
-//// protocol for testing
-//protocol testservice {
-//    func fetchdata() -> string
-//}
-//
-//// mock implementations
-//class mockservice: testservice {
-//    func fetchdata() -> string {
-//        return "mock data"
-//    }
-//}
-//
-//class anothermockservice: testservice {
-//    func fetchdata() -> string {
-//        return "another mock data"
-//    }
-//}
-//
-// Class using the Inject property wrapper
-//class TestClass {
-//    @Inject var service: TestService
-//    
-//    func getData() -> String {
-//        return service.fetchData()
-//    }
-//}
-
 final class InjectTests: XCTestCase {
     
     override func setUp() {
