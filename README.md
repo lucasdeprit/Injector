@@ -1,4 +1,4 @@
-# Injector (Not Released, Neither Tested)
+# Injector (Pre Release)
 
 ![Swift](https://img.shields.io/badge/Swift-5.7%2B-orange.svg)
 ![Platform](https://img.shields.io/badge/Platform-iOS%20|%20macOS%20|%20tvOS%20|%20watchOS-blue.svg)
