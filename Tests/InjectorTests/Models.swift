@@ -1,11 +1,3 @@
-//
-//  Models.swift
-//  Injector
-//
-//  Created by lucasdeprit on 19/10/24.
-//
-// Define some example protocols and classes for testing
-
 import Injector
 import Foundation
 
