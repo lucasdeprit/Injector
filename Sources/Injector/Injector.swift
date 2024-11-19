@@ -31,7 +31,8 @@ public struct Inject<T> {
     ///
     /// Accessing this property will return the resolved instance from `AppContainer`.
     public var wrappedValue: T {
-        return instance
+        get { return instance }
+        set { instance = newValue }
     }
 }
 
