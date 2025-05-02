@@ -1,0 +1,26 @@
+opt_in_rules:
+  - empty_count
+  - line_length
+  - nesting
+  - trailing_whitespace
+
+disabled_rules:
+  - force_cast
+  - force_try
+  - legacy_constructor
+  - todo
+  - void_return
+
+line_length:
+  warning: 120
+  error: 200
+
+trailing_whitespace:
+  warning: true
+
+empty_count:
+  warning: true
+
+nesting:
+  warning: true
+

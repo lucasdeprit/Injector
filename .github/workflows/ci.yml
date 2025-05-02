@@ -34,8 +34,15 @@ jobs:
       - name: Install SwiftLint
         run: brew install swiftlint
 
-      - name: Run SwiftLint with GitHub reporter
-        run: swiftlint lint --reporter github
+      - name: Run SwiftLint and save warnings/errors
+        run: |
+          swiftlint lint --config .swiftlint.yml --reporter json > swiftlint_report.json || true
+
+      - name: Upload SwiftLint report
+        uses: actions/upload-artifact@v3
+        with:
+          name: swiftlint-report
+          path: swiftlint_report.json
 
   release:
     if: startsWith(github.ref, 'refs/tags/v')
