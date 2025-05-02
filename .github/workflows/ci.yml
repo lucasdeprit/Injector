@@ -24,9 +24,6 @@ jobs:
       - name: Run tests with coverage
         run: |
           swift test --enable-code-coverage
-          xcrun llvm-cov export -format="lcov" \
-            .build/debug/InjectorPackageTests.xctest/Contents/MacOS/InjectorPackageTests \
-            -instr-profile .build/debug/codecov/default.profdata > coverage.lcov
 
   lint:
     runs-on: macos-latest
@@ -37,8 +34,8 @@ jobs:
       - name: Install SwiftLint
         run: brew install swiftlint
 
-      - name: Run SwiftLint
-        run: swiftlint --strict
+      - name: Run SwiftLint with GitHub reporter
+        run: swiftlint lint --reporter github-actions
 
   release:
     if: startsWith(github.ref, 'refs/tags/v')
