@@ -39,7 +39,7 @@ jobs:
           swiftlint lint --config .swiftlint.yml --reporter json > swiftlint_report.json || true
 
       - name: Upload SwiftLint report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: swiftlint-report
           path: swiftlint_report.json
