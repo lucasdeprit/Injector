@@ -1,0 +1,443 @@
+[
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/FactoryWrapper.swift",
+    "line" : 15,
+    "reason" : "Line should be 120 characters or less; currently it has 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/FactoryWrapper.swift",
+    "line" : 20,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/FactoryWrapper.swift",
+    "line" : 23,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/FactoryWrapper.swift",
+    "line" : 26,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 12,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/Injector.swift",
+    "line" : 49,
+    "reason" : "Variable name 'AppContainer' should start with a lowercase character",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/Injector.swift",
+    "line" : 22,
+    "reason" : "Line should be 120 characters or less; currently it has 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/Injector.swift",
+    "line" : 18,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 35,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Package.swift",
+    "line" : 12,
+    "reason" : "Collection literals should not have trailing commas",
+    "rule_id" : "trailing_comma",
+    "severity" : "Warning",
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : 40,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Package.swift",
+    "line" : 21,
+    "reason" : "Collection literals should not have trailing commas",
+    "rule_id" : "trailing_comma",
+    "severity" : "Warning",
+    "type" : "Trailing Comma"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/DependencyContainer.swift",
+    "line" : 19,
+    "reason" : "Line should be 120 characters or less; currently it has 123 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/DependencyContainer.swift",
+    "line" : 20,
+    "reason" : "Line should be 120 characters or less; currently it has 133 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/DependencyContainer.swift",
+    "line" : 27,
+    "reason" : "Line should be 120 characters or less; currently it has 121 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/DependencyContainer.swift",
+    "line" : 9,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/DependencyContainer.swift",
+    "line" : 12,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Sources/Injector/DependencyContainer.swift",
+    "line" : 50,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 41,
+    "reason" : "Line should be 120 characters or less; currently it has 122 characters",
+    "rule_id" : "line_length",
+    "severity" : "Warning",
+    "type" : "Line Length"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 5,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 8,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 13,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 18,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 24,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 28,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 31,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 35,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/InjectorTests.swift",
+    "line" : 39,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/FactoryWrapperTests.swift",
+    "line" : 5,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/FactoryWrapperTests.swift",
+    "line" : 8,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/FactoryWrapperTests.swift",
+    "line" : 13,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/FactoryWrapperTests.swift",
+    "line" : 18,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/FactoryWrapperTests.swift",
+    "line" : 21,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/FactoryWrapperTests.swift",
+    "line" : 26,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 79,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Warning",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 100,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Warning",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 102,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Warning",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 117,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Warning",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 120,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Warning",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 122,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Warning",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 5,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 7,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 12,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 23,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 26,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 31,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 37,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 40,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 51,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 55,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 58,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : null,
+    "file" : "/Users/frameluak/Development/swift/my-packages/Injector/Tests/InjectorTests/DependencyContainerTests.swift",
+    "line" : 62,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Warning",
+    "type" : "Trailing Whitespace"
+  }
+]
